@@ -4,6 +4,9 @@
 
 This repository contains the code and data for a project focused on predicting crop yields based on various agricultural factors. This was my capstone project during my internship, where I worked on developing predictive models to optimize agricultural production.
 
+![Picture1](https://github.com/iamashishwasnik/Crop-Prediction-project/assets/147370129/c58b4d30-61bb-4137-a2bd-95d4e4594555)
+
+
 ## Dataset Information
 
 The dataset used in this project contains information related to agricultural factors and crop yield. It includes data such as state names, crop types, nutrient levels (N, P, K), pH levels, weather conditions (rainfall, temperature), area in hectares, production in tons, and yield per hectare. The dataset was obtained from [provide data source if available].
